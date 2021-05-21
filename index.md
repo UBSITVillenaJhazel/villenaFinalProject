@@ -6,8 +6,6 @@ It is so helpful not only for me but for my future. ^_^
 
 ### HUMCOM1
 
-```markdown
-
 1. GitHub
 2. Visual Studio Code
 3. Nodes
